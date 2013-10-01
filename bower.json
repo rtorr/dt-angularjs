@@ -1,0 +1,7 @@
+{
+  "name": "dt-angular",
+  "version": "1.1.5",
+  "dependencies": {
+    "dt-jquery": "git@github.com:rtorr/dt-jquery.git"
+  }
+}
